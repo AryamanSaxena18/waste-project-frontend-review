@@ -1,0 +1,1 @@
+Copy your trained waste_cnn.pth checkpoint into this folder, beside app.py. The checkpoint itself is not included in this ZIP.
